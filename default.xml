@@ -847,4 +847,7 @@
   <!-- Add all PixelExperience repos -->
   <include name="snippets/pixel.xml" />
 
+  <!-- Add all PixelPlusUI repos -->
+  <include name="snippets/ppui.xml" />
+
 </manifest>
