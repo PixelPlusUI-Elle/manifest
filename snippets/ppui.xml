@@ -58,4 +58,6 @@
   <project path="system/sepolicy" name="system_sepolicy" remote="ppui" />
   <project path="system/vold" name="system_vold" remote="ppui" />
 
+  <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="ppui"  />
+
 </manifest>
