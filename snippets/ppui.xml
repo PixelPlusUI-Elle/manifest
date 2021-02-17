@@ -49,7 +49,10 @@
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="ppui" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ppui" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="ppui" />
-  <project path="packages/apps/ConfigCenter" name="packages_apps_ConfigCenter" remote="ppui" />
+  <project path="packages/apps/Pixelizer" name="packages_apps_Pixelizer" remote="ppui">
+    <linkfile src="res" dest="packages/apps/Settings/res-customisation" />
+    <linkfile src="src" dest="packages/apps/Settings/src_customisation" />
+  </project>
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="ppui" />
