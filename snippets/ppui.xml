@@ -63,4 +63,6 @@
 
   <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="ppui"  />
 
+  <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="ppui" />
+
 </manifest>
