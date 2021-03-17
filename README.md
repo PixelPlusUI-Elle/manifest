@@ -1,9 +1,9 @@
 ![PixelPlusUI](https://i.imgur.com/foReqPr.png "PixelPlusUI")
 
+# PixelPlusUI 
+### - Your Requirements Our Goals
 
-PixelPlusUI is a Pixel Experience based ROM with some more friendly user experience. What differentiates us from the rest, you ask? Well that's why you're here. LET'S FIND OUT. It has additional localised and personalized functionality while preserving the stock Android look by adhering to Material Design guidelines. Unlike OEMs' slow and untimely updates, we closely follow Google to bring the latest updates to our users, and even prolonging support to devices that have been declared obsolete by OEMs. Our ROMs' source code is open source, secure, stable and outstanding. Your experience using PixelPlusUI will be butter smooth with added convenience and features. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android or even be one of our developers. Let's bring this project to greater heights! PixelPlusUI is a minimal and close to stock Android ROM which offers great performance and stability with many awesome features. The main aim of this rom is to give user a better experience without compromising quality of Android experience so that no one struggles in any kind of difficulties while using their device. PixelPlusUI brings a better UI/UX to Android with a seamless experience coupled with customisations and user security. But this doesn't mean our aim is to provide all the customisation available on the planet. We are focused on a cleaner, more Material design approach with Pixel Goodies. So sit back and enjoy PixelPlusUI on your device!
-
-===========
+PixelPlusUI is a Pixel Experience based ROM with some more friendly user experience. What differentiates us from the rest, you ask? LET'S FIND OUT. It has additional localised and personalized functionality while preserving the stock Android look by adhering to Material Design guidelines. Unlike OEMs' slow and untimely updates, we closely follow Google to bring the latest updates to our users. This is a minimal and close to stock Android ROM which offers great performance and stability with many awesome features and user security. But this doesn't mean our aim is to provide all the customisation available on the planet. 
 
 To get started, you'll need to get
 familiar with [Repo](https://source.android.com/source/using-repo.html) and [Version Control with Git](https://source.android.com/source/version-control.html).
@@ -69,8 +69,6 @@ $ mka bacon -jX
  * [**DirtyUnicorns**](https://github.com/DirtyUnicorns)
  * [**Wave-Project**](https://github.com/Wave-Project)
  * [**Project-404**](https://github.com/P-404)
-
-
 
 
 ![Support and Donation](https://i.imgur.com/aNanj7v.png "Support and Donation")
