@@ -59,8 +59,8 @@
   <project path="system/vold" name="system_vold" remote="ppui" />
 
   <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="ppui"  />
-
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="ppui" />
+  <project path="external/exfat" name="external_exfat" remote="ppui" />
 
   <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="github" revision="master" clone-depth="1" />
 
