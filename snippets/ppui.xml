@@ -36,6 +36,7 @@
   <project path="manifest" name="manifest" remote="ppui" />
   <project path="platform_testing" name="platform_testing" remote="ppui" />
   <project path="vendor/aosp" name="vendor_aosp" remote="ppui" />
+  <project path="vendor/qcom/opensource/usb" name="android_vendor_qcom_opensource_usb" remote="ppui" />
 
   <!-- Hardware repos -->
   <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="ppui" />
