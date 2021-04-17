@@ -140,6 +140,7 @@
   <!-- System Repos -->
   <project path="system/incremental_delivery" name="system_incremental_delivery" remote="pixel" />
   <project path="system/libufdt" name="system_libufdt" remote="pixel" />
+  <project path="system/media" name="system_media" remote="pixel" />
   <project path="system/timezone" name="system_timezone" remote="pixel" />
   <project path="system/tools/mkbootimg" name="system_tools_mkbootimg" remote="pixel" />
   <project path="system/update_engine" name="system_update_engine" remote="pixel" />
