@@ -1,4 +1,6 @@
-![PixelPlusUI](https://i.imgur.com/foReqPr.png "PixelPlusUI")
+<p align="center">
+  <img src="https://i.imgur.com/PrvTTB9.jpg" />
+</p>
 
 # PixelPlusUI 
 ### - Your Requirements Our Goals
@@ -55,18 +57,9 @@ $ mka bacon -jX
  * [**PixelExperience**](https://github.com/PixelExperience)
  * [**Havoc-OS**](https://github.com/Havoc-OS)
  * [**ProtonAOSP**](https://github.com/ProtonAOSP)
- * [**BlissROMs**](https://github.com/BlissRoms)
- * [**Syberia Project**](https://github.com/syberia-project)
- * [**crDroid**](https://github.com/crdroidandroid)
  * [**Octavi-OS**](https://github.com/Octavi-OS)
- * [**POSP**](https://github.com/PotatoProject)
- * [**AOSiP**](https://github.com/AOSiP)
- * [**StatiXOS**](https://github.com/StatiXOS)
- * [**ArrowOS**](https://github.com/ArrowOS)
- * [**AOSAP**](https://github.com/AOSAP)
+ * [**AOSPA**](https://github.com/AOSPA)
  * [**ShapeShiftOS**](https://github.com/ShapeShiftOS)
- * [**PixelExtended**](https://github.com/PixelExtended)
- * [**DirtyUnicorns**](https://github.com/DirtyUnicorns)
  * [**Wave-Project**](https://github.com/Wave-Project)
  * [**Project-404**](https://github.com/P-404)
 
