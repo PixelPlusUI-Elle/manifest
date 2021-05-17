@@ -17,8 +17,8 @@ familiar with [Repo](https://source.android.com/source/using-repo.html) and [Ver
 * This can be located anywhere (as long as the fs is case-sensitive)
 
 ```bash
-$ mkdir WORKSPACE
-$ cd WORKSPACE
+mkdir WORKSPACE
+cd WORKSPACE
 ```
 
 ### Install Repo in the created directory
@@ -32,23 +32,23 @@ repo init -u https://github.com/PixelPlusUI-Elle/manifest -b eleven
 >> [Hint: Want to save some space ? Then use this]
 
 ```bash
-$ repo init --depth=1 -u https://github.com/PixelPlusUI-Elle/manifest -b eleven
+repo init --depth=1 -u https://github.com/PixelPlusUI-Elle/manifest -b eleven
 ```
 
 ### Download the source
 ```bash
-$ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 
 ### Build ###
 
 ```bash
 # Set up environment
-$ . build/envsetup.sh
+. build/envsetup.sh
 # Choose a target
-$ lunch aosp_$device-userdebug
+lunch aosp_$device-userdebug
 # Build the code
-$ mka bacon -jX
+mka bacon -jX
 ```
 
 ![Credit](https://i.imgur.com/a6njYr9.png "Credit")
