@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/PrvTTB9.jpg" />
 </p>
 
-# PixelPlusUI 
+# PixelPlusUI [![Download PixelPlusUI Builds](https://img.shields.io/sourceforge/dt/pixelplusui-project.svg)](https://sourceforge.net/projects/pixelplusui-project/files/eleven/)
 ### - Your Requirements Our Goals
 
 PixelPlusUI is a Pixel Experience based ROM with some more friendly user experience. What differentiates us from the rest, you ask? LET'S FIND OUT. It has additional localised and personalized functionality while preserving the stock Android look by adhering to Material Design guidelines. Unlike OEMs' slow and untimely updates, we closely follow Google to bring the latest updates to our users. This is a minimal and close to stock Android ROM which offers great performance and stability with many awesome features and user security. But this doesn't mean our aim is to provide all the customisation available on the planet. 
