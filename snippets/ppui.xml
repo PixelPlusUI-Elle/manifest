@@ -52,6 +52,9 @@
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="ppui" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ppui" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="ppui" />
+  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="ppui" />
+  <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="ppui" />
+  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="ppui" />
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="ppui" />
@@ -59,6 +62,7 @@
   <project path="system/netd" name="system_netd" remote="ppui" />
   <project path="system/sepolicy" name="system_sepolicy" remote="ppui" />
   <project path="system/vold" name="system_vold" remote="ppui" />
+  <project path="system/update_engine" name="system_update_engine" remote="ppui" />
 
   <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="ppui"  />
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="ppui" />
