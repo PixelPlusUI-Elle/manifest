@@ -69,5 +69,6 @@
   <project path="external/exfat" name="external_exfat" remote="ppui" />
 
   <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="github" revision="master" clone-depth="1" />
+  <project path="hardware/lineage/livedisplay" name="hardware_lineage_livedisplay" remote="ppui" />
 
 </manifest>
