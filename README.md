@@ -5,7 +5,7 @@
 # PixelPlusUI [![Download PixelPlusUI Builds](https://img.shields.io/sourceforge/dt/pixelplusui-project.svg)](https://sourceforge.net/projects/pixelplusui-project/files/eleven/)
 ### - Your Requirements Our Goals
 
-PixelPlusUI is a Pixel Experience based ROM with some more friendly user experience. What differentiates us from the rest, you ask? LET'S FIND OUT. It has additional localised and personalized functionality while preserving the stock Android look by adhering to Material Design guidelines. Unlike OEMs' slow and untimely updates, we closely follow Google to bring the latest updates to our users. This is a minimal and close to stock Android ROM which offers great performance and stability with many awesome features and user security. But this doesn't mean our aim is to provide all the customisation available on the planet. 
+PixelPlusUI is an another aftermarket aosp ROM Minimal UI & close to Stock Android ROM. What differentiates us from the rest, you ask? LET'S FIND OUT. Our main aim is to give user a better experience without compromising quality of Android experience so that no one struggles in any kind of difficulties while using their device. It brings a better UI/UX to Android with a seamless experience coupled with customisations and user security. Inshort its perfectly balaced between Great Performance, Security, Stability, Minimal UI & Awesome features including pixel goodies. Join us now and start enjoying the beauty of stock Android. Build and enjoy PixelPlusUI on your respective devices!
 
 To get started, you'll need to get
 familiar with [Repo](https://source.android.com/source/using-repo.html) and [Version Control with Git](https://source.android.com/source/version-control.html).
@@ -68,8 +68,8 @@ mka bacon -jX
 
 ### Adding Support
  - For adding your device to the list of supported devices, please fill the maintainers form [**Form**](https://docs.google.com/forms/d/e/1FAIpQLScA5G_AUKiJlDWCM4Beaf_059dVZiClHv_rwZsklcXcGq0tzQ/viewform?vc=0&c=0&w=1) with your device tree and previous experience in building roms. Or you can contact us on Telegram Profiles below for faster response.
- * [**Kostya-Maslennikov**](https://t.me/kostyajrz)
- * [**Saurav**](https://t.me/ugly_kid_af)
+* [**Saurav**](https://t.me/ugly_kid_af) 
+* [**Kostya-Maslennikov**](https://t.me/kostyajrz)
 
 ### Follow  us for more
  * [**Telegram Group**](https://t.me/ppuichat)
