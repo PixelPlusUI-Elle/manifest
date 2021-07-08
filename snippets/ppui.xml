@@ -5,6 +5,10 @@
           fetch="https://github.com/PixelPlusUI-Elle"
           revision="eleven" />
 
+  <remote name="ppui-gitlab"
+          fetch="https://gitlab.com/uglykidaf"
+          revision="eleven" />
+
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="ppui" />
   <project path="frameworks/base" name="frameworks_base" remote="ppui" />
@@ -37,6 +41,7 @@
   <project path="platform_testing" name="platform_testing" remote="ppui" />
   <project path="vendor/aosp" name="vendor_aosp" remote="ppui" />
   <project path="vendor/qcom/opensource/usb" name="android_vendor_qcom_opensource_usb" remote="ppui" />
+  <project path="vendor/gapps" name="vendor_gapps" remote="ppui-gitlab" clone-depth="1" />
 
   <!-- Hardware repos -->
   <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="ppui" />
